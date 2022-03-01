@@ -108,7 +108,6 @@ def verify_reddis_memory_settings():
 	except:
 		print("No memory set for Reddis")
 
-
 def check_acces_log():
 	print("="*40, "Access Log", "="*40)
 	try:
